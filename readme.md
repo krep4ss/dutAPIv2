@@ -1,4 +1,4 @@
-프록시 서버를 거칠 필요 없는 [npm package ](https://github.com/kkreppass/playentry-sdk)버전이 출시되었습니다. 훨씬 빠른 속도를 경험해보세요.
+프록시 서버를 거칠 필요 없는 [npm package ](https://github.com/kkreppass/playentry-sdk)버전
 
 <img width="300" alt="dutapiv2" src="https://github.com/user-attachments/assets/2d92071a-396a-4dab-a316-ae446827be2d" />
 <br>
